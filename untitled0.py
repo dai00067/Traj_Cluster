@@ -2,7 +2,7 @@
 """
 Created on Wed Jul  3 15:54:20 2019
 
-@author: zoed0
+@author: zoe dai
 """         
 import sys
 import os
