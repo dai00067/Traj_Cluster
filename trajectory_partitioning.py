@@ -1,7 +1,4 @@
 '''
-Created on Jan 7, 2016
-
-@author: Alex
 '''
 from geometry import LineSegment
 from distance_functions import perpendicular_distance, \
