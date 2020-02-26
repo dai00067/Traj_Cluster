@@ -1,9 +1,3 @@
-'''
-Created on Jan 10, 2016
-
-@author: Alex
-
-'''
 from generic_dbscan import dbscan
 from traclus_dbscan import TrajectoryLineSegmentFactory, \
     TrajectoryClusterFactory
