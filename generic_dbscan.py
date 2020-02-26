@@ -1,7 +1,5 @@
 '''
-Created on Dec 30, 2015
 
-@author: Alex
 '''
 import collections
 
