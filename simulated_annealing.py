@@ -1,13 +1,4 @@
 '''
-Created on Feb 13, 2016
-
-@author: Alex
-'''
-'''
-Created on Feb 13, 2016
-
-@author: Alex
-'''
 import math
 from random import random
 
